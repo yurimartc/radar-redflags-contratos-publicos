@@ -1,0 +1,11 @@
+weights:
+  supplier_value_concentration: 10
+  supplier_count_concentration: 8
+  contract_splitting_short_window: 10
+  new_company_high_value: 12
+  abrupt_supplier_growth: 8
+  recurring_exception_modality: 9
+  contract_value_outlier: 12
+  end_of_year_spike: 4
+  cnae_object_mismatch: 5
+  sanctioned_supplier: 22
