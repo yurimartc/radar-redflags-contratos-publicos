@@ -1,4 +1,6 @@
-# Dashboard (MVP)
+# Dashboard (Streamlit)
+
+Frontend do projeto será em Streamlit, consumindo camada analítica em Parquet/Delta (gold).
 
 Páginas mínimas:
 - Visão geral
