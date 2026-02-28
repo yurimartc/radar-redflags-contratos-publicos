@@ -1,0 +1,16 @@
+concentration_value_pct:
+  warning: 0.20
+  critical: 0.30
+
+concentration_count_pct:
+  warning: 0.20
+  critical: 0.30
+
+new_company_days:
+  threshold: 180
+
+rapid_growth_ratio:
+  warning: 2.0
+  critical: 3.0
+
+end_of_year_months: [12]
